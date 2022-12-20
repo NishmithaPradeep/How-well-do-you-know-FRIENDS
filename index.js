@@ -48,5 +48,5 @@ for(var i=0;i<friendsArray.length;i++)
   {
     letsPlay(friendsArray[i].question,friendsArray[i].answer);
   }
-console.log("conratulations " +userName+ "...you scored " + score + "/5");
+console.log(userName+ "...you scored " + score + "/5");
 
